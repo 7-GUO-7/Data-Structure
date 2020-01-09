@@ -165,8 +165,7 @@ char array_from_link[1000];
 //    for(int k=0;k<=j;++k){
 //        if(array_from_link[k]!='1')
 //            cout<<array_from_link[k]<<' ';
-//        else cout<<"NULL"<<' ';}
-//}
+//        else cout<<"NULL"<<' ';}}
 
 int main() {
     char pre[10000],mid[10000];
